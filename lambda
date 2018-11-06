@@ -4,3 +4,6 @@ fun=func(5)
 d=func(4)
 print(fun(5))
 print(d(10))
+##############
+x=lambda a:5
+print(x(9))
