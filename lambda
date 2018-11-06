@@ -1,0 +1,6 @@
+def func(a):
+    return lambda con :a+con
+fun=func(5)
+d=func(4)
+print(fun(5))
+print(d(10))
