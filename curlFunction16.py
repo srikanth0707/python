@@ -9,10 +9,7 @@ import subprocess
 
 """ 
 ###################################################################################
-Description:Curl funcationality tests 
-           Update to 7.63.0, released for L09.03 RVU 
-Date:      8 Feb 2019
-Author: Arul venkatesh kandasamy
+
 ###################################################################################
 """
 
